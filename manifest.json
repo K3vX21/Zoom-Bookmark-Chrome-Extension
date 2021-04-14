@@ -1,0 +1,11 @@
+{
+  "name": "Zoom Bookmarks Demo",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Demo bookmarks app that allows you to save and open your Zoom links.",
+  "homepage_url": "https://hackclub.com",
+  "icons": {
+    "48": "icon.png"
+  },
+  "default_locale": "en,"
+}
